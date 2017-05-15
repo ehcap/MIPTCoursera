@@ -1,0 +1,6 @@
+Log file created at: 2017/04/20 18:22:52
+Running on machine: MININT-RCBK2JF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0420 18:22:52.338873  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.
+E0420 18:23:23.667475  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.
+E0421 00:05:53.921305  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.

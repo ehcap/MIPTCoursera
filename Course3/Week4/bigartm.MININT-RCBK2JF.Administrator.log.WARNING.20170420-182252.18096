@@ -1,0 +1,11 @@
+Log file created at: 2017/04/20 18:22:52
+Running on machine: MININT-RCBK2JF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0420 18:22:52.338873  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.
+E0420 18:23:23.667475  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.
+W0420 22:48:13.504995  2132 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0420 22:48:34.837404  2132 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0420 22:49:30.971395  2132 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0420 22:49:43.699542  2132 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+E0421 00:05:53.921305  2132 c_interface.cc:59] DiskReadException :  File Week4/lectures.txt does not exist.
+W0421 00:09:22.088582  2132 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
